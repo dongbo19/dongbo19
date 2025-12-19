@@ -17,7 +17,7 @@ Focused on **Multi–sensor fusion, ROS2, and SLAM**
 
 <p align="center">
   <!--img src="https://github-readme-activity-graph.vercel.app/graph?username=dongbo19&bg_color=000000&hide_border=true"/-->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dongbo19&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dongbo19&show_icons=false&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true"/>
 </p>
 
 ---
