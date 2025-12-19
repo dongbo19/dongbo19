@@ -29,6 +29,14 @@ Focused on **Multi–sensor fusion, ROS2, and SLAM**
 
 ---
 
+### 🚀 Interests
+
+- ESKF / IESKF
+- Visual-Inertial SLAM
+- State estimation & optimization
+
+---
+
 ### 🛠️ Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
@@ -39,13 +47,7 @@ Focused on **Multi–sensor fusion, ROS2, and SLAM**
 ![PCL](https://img.shields.io/badge/PCL-1f77b4)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv)
 
----
 
-### 🚀 Interests
-
-- ESKF / IESKF
-- Visual-Inertial SLAM
-- State estimation & optimization
 
 <!--
 **dongbo19/dongbo19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
