@@ -5,18 +5,6 @@ Focused on **Multi–sensor fusion, ROS2, and SLAM**
 
 ---
 
-### 📊 GitHub Stats
-
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dongbo19&show_icons=true&hide_title=true)
-
----
-
-### 🎯 Top Languages
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongbo19&layout=compact)
-
----
-
 ### 🚀 Interests
 
 - ESKF / IESKF
