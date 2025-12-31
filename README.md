@@ -7,18 +7,13 @@ Focused on **Multi–sensor fusion, ROS2, and SLAM**
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dongbo19&show_icons=true&hide_title=true"/>
-</p>
-
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dongbo19&show_icons=true&hide_title=true)
 
 ---
 
 ### 🎯 Top Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongbo19&layout=compact"/>
-</p>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongbo19&layout=compact)
 
 ---
 
